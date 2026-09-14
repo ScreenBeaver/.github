@@ -16,15 +16,29 @@
 </p>
 
 <p align="center">
+  <a href="https://apps.microsoft.com/detail/9P89CCNBVMVV"><strong>⬇ Download from Microsoft Store</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/ScreenBeaver/ScreenBeaver"><strong>★ GitHub repo</strong></a>
+</p>
+
+<p align="center">
   <a href="https://screenbeaver.com">Website</a> ·
+  <a href="https://github.com/ScreenBeaver/ScreenBeaver">GitHub</a> ·
   <a href="https://screenbeaver.com/features">Features</a> ·
   <a href="https://screenbeaver.com/docs/mcp">MCP Docs</a> ·
-  <a href="https://screenbeaver.com/downloads">Download</a> ·
+  <a href="https://screenbeaver.com/downloads">Downloads</a> ·
   <a href="mailto:support@screenbeaver.com">Support</a>
 </p>
 
 <p align="center">
-  <a href="https://screenbeaver.com"><img src="https://img.shields.io/badge/Windows-Microsoft%20Store-0078D4?style=flat-square&logo=microsoft" alt="Microsoft Store" /></a>
+  <a href="https://apps.microsoft.com/detail/9P89CCNBVMVV"><img src="https://img.shields.io/badge/Download-Microsoft%20Store-0078D4?style=for-the-badge&logo=microsoft" alt="Download from Microsoft Store" /></a>
+  &nbsp;
+  <a href="https://github.com/ScreenBeaver/ScreenBeaver"><img src="https://img.shields.io/badge/GitHub-ScreenBeaver-181717?style=for-the-badge&logo=github" alt="GitHub repo" /></a>
+</p>
+
+<p align="center">
+  <a href="https://apps.microsoft.com/detail/9P89CCNBVMVV"><img src="https://img.shields.io/badge/Windows-Microsoft%20Store-0078D4?style=flat-square&logo=microsoft" alt="Microsoft Store" /></a>
+  <a href="https://github.com/ScreenBeaver/ScreenBeaver"><img src="https://img.shields.io/badge/GitHub-ScreenBeaver%2FScreenBeaver-181717?style=flat-square&logo=github" alt="GitHub" /></a>
   <a href="https://www.npmjs.com/package/@screenbeaver/mcp"><img src="https://img.shields.io/badge/npm-@screenbeaver%2Fmcp-CB3837?style=flat-square&logo=npm" alt="npm" /></a>
   <a href="https://screenbeaver.com"><img src="https://img.shields.io/badge/Export-Local%20H.264-111111?style=flat-square" alt="Local export" /></a>
   <a href="https://modelcontextprotocol.io"><img src="https://img.shields.io/badge/MCP-Agent%20ready-0A0A0A?style=flat-square" alt="MCP" /></a>
@@ -56,7 +70,7 @@ Built for people who ship software and need the story to look as intentional as 
 
 ## Quick start
 
-**1. Install the Windows studio** from the [Microsoft Store](https://screenbeaver.com/downloads) and leave the app running.
+**1. [Download from Microsoft Store](https://apps.microsoft.com/detail/9P89CCNBVMVV)** — install the Windows studio and leave the app running.
 
 **2. (Optional) Add MCP** so agents can drive capture:
 
@@ -100,7 +114,9 @@ Works with MCP-capable agents including Cursor, Claude Code, Windsurf, Trae, Ant
 - **Product** — [screenbeaver.com](https://screenbeaver.com)
 - **About** — [screenbeaver.com/about](https://screenbeaver.com/about)
 - **MCP** — [screenbeaver.com/mcp](https://screenbeaver.com/mcp) · [Docs](https://screenbeaver.com/docs/mcp)
-- **Download** — [Microsoft Store / setup](https://screenbeaver.com/downloads)
+- **Microsoft Store** — [Download Screen Beaver for Windows](https://apps.microsoft.com/detail/9P89CCNBVMVV)
+- **GitHub** — [ScreenBeaver/ScreenBeaver](https://github.com/ScreenBeaver/ScreenBeaver)
+- **Setup guide** — [screenbeaver.com/downloads](https://screenbeaver.com/downloads)
 - **npm** — [`@screenbeaver/mcp`](https://www.npmjs.com/package/@screenbeaver/mcp)
 - **Support** — [support@screenbeaver.com](mailto:support@screenbeaver.com)
 
@@ -111,5 +127,7 @@ Works with MCP-capable agents including Cursor, Claude Code, Windsurf, Trae, Ant
 </p>
 
 <p align="center">
+  <a href="https://apps.microsoft.com/detail/9P89CCNBVMVV"><strong>Download from Microsoft Store →</strong></a><br />
+  <a href="https://github.com/ScreenBeaver/ScreenBeaver"><strong>View on GitHub →</strong></a><br />
   <a href="https://screenbeaver.com">Try Screen Beaver free →</a>
 </p>
